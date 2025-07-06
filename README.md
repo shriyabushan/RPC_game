@@ -34,5 +34,5 @@ Here’s what the game and detection look like:
 ![image alt](https://github.com/shriyabushan/RPC_game/blob/496436a8ff614d46ed07907a06f18746f4223848/Screenshot.png)
 ---
 ## Acknowledgments
-Ultralytics YOLOv8
-Roboflow Rock Paper Scissors Dataset
+- Ultralytics YOLOv8
+- Roboflow Rock Paper Scissors Dataset
