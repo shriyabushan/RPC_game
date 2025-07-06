@@ -31,7 +31,7 @@ python rps_game.py
 ---
 ## Screenshots
 Here’s what the game and detection look like:
-
+<img src="screenshot.png">
 ---
 ## Acknowledgments
 Ultralytics YOLOv8
